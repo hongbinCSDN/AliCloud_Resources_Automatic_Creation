@@ -1,0 +1,17 @@
+C:\project\PSMS\AliCloud\source\PSMS.Cloud.Automation\PSMS.Cloud.Common\bin\Debug\PSMS.Cloud.Common.dll
+C:\project\PSMS\AliCloud\source\PSMS.Cloud.Automation\PSMS.Cloud.Common\bin\Debug\PSMS.Cloud.Common.pdb
+C:\project\PSMS\AliCloud\source\PSMS.Cloud.Automation\PSMS.Cloud.Common\obj\Debug\PSMS.Cloud.Common.csproj.CoreCompileInputs.cache
+C:\project\PSMS\AliCloud\source\PSMS.Cloud.Automation\PSMS.Cloud.Common\obj\Debug\PSMS.Cloud.Common.dll
+C:\project\PSMS\AliCloud\source\PSMS.Cloud.Automation\PSMS.Cloud.Common\obj\Debug\PSMS.Cloud.Common.pdb
+C:\project\PSMS\AliCloud\source\PSMS.Cloud.Automation\PSMS.Cloud.Common\obj\Debug\PSMS.Cloud.Common.csprojResolveAssemblyReference.cache
+C:\Users\ASL\Source\Workspaces\PSMS\PSMS\Cloud\DEV\PSMS.Cloud.Automation\PSMS.Cloud.Common\bin\Debug\PSMS.Cloud.Common.dll
+C:\Users\ASL\Source\Workspaces\PSMS\PSMS\Cloud\DEV\PSMS.Cloud.Automation\PSMS.Cloud.Common\bin\Debug\PSMS.Cloud.Common.pdb
+C:\Users\ASL\Source\Workspaces\PSMS\PSMS\Cloud\DEV\PSMS.Cloud.Automation\PSMS.Cloud.Common\obj\Debug\PSMS.Cloud.Common.csproj.CoreCompileInputs.cache
+C:\Users\ASL\Source\Workspaces\PSMS\PSMS\Cloud\DEV\PSMS.Cloud.Automation\PSMS.Cloud.Common\obj\Debug\PSMS.Cloud.Common.dll
+C:\Users\ASL\Source\Workspaces\PSMS\PSMS\Cloud\DEV\PSMS.Cloud.Automation\PSMS.Cloud.Common\obj\Debug\PSMS.Cloud.Common.pdb
+C:\Users\ASL\source\Workspaces\PSMS\PSMS\Cloud\DEV\PSMS.Cloud.Automation\PSMS.Cloud.Common\obj\Debug\PSMS.Cloud.Common.csprojResolveAssemblyReference.cache
+E:\PSMS\PSMS.Cloud.Automation\PSMS.Cloud.Common\bin\Debug\PSMS.Cloud.Common.dll
+E:\PSMS\PSMS.Cloud.Automation\PSMS.Cloud.Common\bin\Debug\PSMS.Cloud.Common.pdb
+E:\PSMS\PSMS.Cloud.Automation\PSMS.Cloud.Common\obj\Debug\PSMS.Cloud.Common.csproj.CoreCompileInputs.cache
+E:\PSMS\PSMS.Cloud.Automation\PSMS.Cloud.Common\obj\Debug\PSMS.Cloud.Common.dll
+E:\PSMS\PSMS.Cloud.Automation\PSMS.Cloud.Common\obj\Debug\PSMS.Cloud.Common.pdb

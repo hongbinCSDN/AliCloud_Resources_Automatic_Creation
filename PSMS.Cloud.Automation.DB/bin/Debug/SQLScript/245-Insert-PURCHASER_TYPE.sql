@@ -1,0 +1,8 @@
+USE [<<DBNAME>>]
+GO
+BEGIN TRAN
+insert into PURCHASER_TYPE ([PURCHASER_TYPE_ID],[PURCHASER_TYPE_NAME]) values ('I',	'Investment')
+GO
+insert into PURCHASER_TYPE ([PURCHASER_TYPE_ID],[PURCHASER_TYPE_NAME]) values ('S',	'Self Use')
+GO
+COMMIT TRAN

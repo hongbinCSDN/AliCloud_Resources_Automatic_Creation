@@ -1,0 +1,141 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSMS.Cloud.Automation.WFE", "PSMS.Cloud.Automation.WFE\PSMS.Cloud.Automation.WFE.csproj", "{3809F587-AB27-490D-BC43-611C64E80055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSMS.Cloud.Common", "PSMS.Cloud.Common\PSMS.Cloud.Common.csproj", "{FEF10CC8-FDE3-4F3C-AB03-CC9A20F5BE0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSMS.Cloud.Automation.WFEConfig", "PSMS.Cloud.Automation.WFEConfig\PSMS.Cloud.Automation.WFEConfig.csproj", "{1032C221-4DF8-46AB-9AC5-62982385FFB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSMS.Cloud.Automation.DBWL", "PSMS.Cloud.Automation.DBWL\PSMS.Cloud.Automation.DBWL.csproj", "{04C91972-40D6-4880-9CB5-000B1E98FE1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSMS.Cloud.Automation.SLB", "PSMS.Cloud.Automation.SLB\PSMS.Cloud.Automation.SLB.csproj", "{8263B6EA-7953-4746-AC49-53A2C587E031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSMS.Cloud.Automation.DNS", "PSMS.Cloud.Automation.DNS\PSMS.Cloud.Automation.DNS.csproj", "{B6C14D9E-6637-4DFC-926C-99D8DF4A48E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSMS.Cloud.Automation.DB", "PSMS.Cloud.Automation.DB\PSMS.Cloud.Automation.DB.csproj", "{17960278-DCD4-4CB3-BCC9-BD0BA5374C2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSMS.Cloud.Automation.PasswordChecker", "PSMS.Cloud.Automation.PasswordChecker\PSMS.Cloud.Automation.PasswordChecker.csproj", "{5832D277-21FD-40A2-88CA-3D82C47E84EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DB Schema", "DB Schema", "{7C2FA905-443D-487F-99F9-E7F183C4FE37}"
+	ProjectSection(SolutionItems) = preProject
+		DB schema\CreateSP.sql = DB schema\CreateSP.sql
+		DB schema\CreateTable.sql = DB schema\CreateTable.sql
+		DB schema\InsertData-CloudDBProvisionStatusDef.sql = DB schema\InsertData-CloudDBProvisionStatusDef.sql
+		DB schema\InsertData-CloudSysParam.sql = DB schema\InsertData-CloudSysParam.sql
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSMS.Cloud.Automation.Renewal", "PSMS.Cloud.Automation.Renewal\PSMS.Cloud.Automation.Renewal.csproj", "{47D5B9D8-C584-4C09-AF26-BB7F70574E00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSMS.Cloud.Automation.CleanUp", "PSMS.Cloud.Automation.CleanUp\PSMS.Cloud.Automation.CleanUp.csproj", "{714F5030-6A34-4D8C-A435-97B04BA80417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSMS.Cloud.Automation.EmailNotification", "PSMS.Cloud.Automation.EmailNotification\PSMS.Cloud.Automation.EmailNotification.csproj", "{5FB1334C-BF06-4850-8C8A-CF9A08CA502F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSMS.Cloud.Automation.ResourceMonitoring", "PSMS.Cloud.Automation.ResourceMonitoring\PSMS.Cloud.Automation.ResourceMonitoring.csproj", "{93E2B070-5BA4-4492-BF26-646034B810F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3809F587-AB27-490D-BC43-611C64E80055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3809F587-AB27-490D-BC43-611C64E80055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3809F587-AB27-490D-BC43-611C64E80055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3809F587-AB27-490D-BC43-611C64E80055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF10CC8-FDE3-4F3C-AB03-CC9A20F5BE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF10CC8-FDE3-4F3C-AB03-CC9A20F5BE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF10CC8-FDE3-4F3C-AB03-CC9A20F5BE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF10CC8-FDE3-4F3C-AB03-CC9A20F5BE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1032C221-4DF8-46AB-9AC5-62982385FFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1032C221-4DF8-46AB-9AC5-62982385FFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1032C221-4DF8-46AB-9AC5-62982385FFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1032C221-4DF8-46AB-9AC5-62982385FFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C91972-40D6-4880-9CB5-000B1E98FE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C91972-40D6-4880-9CB5-000B1E98FE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C91972-40D6-4880-9CB5-000B1E98FE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C91972-40D6-4880-9CB5-000B1E98FE1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8263B6EA-7953-4746-AC49-53A2C587E031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8263B6EA-7953-4746-AC49-53A2C587E031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8263B6EA-7953-4746-AC49-53A2C587E031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8263B6EA-7953-4746-AC49-53A2C587E031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6C14D9E-6637-4DFC-926C-99D8DF4A48E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C14D9E-6637-4DFC-926C-99D8DF4A48E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C14D9E-6637-4DFC-926C-99D8DF4A48E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C14D9E-6637-4DFC-926C-99D8DF4A48E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17960278-DCD4-4CB3-BCC9-BD0BA5374C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17960278-DCD4-4CB3-BCC9-BD0BA5374C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17960278-DCD4-4CB3-BCC9-BD0BA5374C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17960278-DCD4-4CB3-BCC9-BD0BA5374C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5832D277-21FD-40A2-88CA-3D82C47E84EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5832D277-21FD-40A2-88CA-3D82C47E84EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5832D277-21FD-40A2-88CA-3D82C47E84EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5832D277-21FD-40A2-88CA-3D82C47E84EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47D5B9D8-C584-4C09-AF26-BB7F70574E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D5B9D8-C584-4C09-AF26-BB7F70574E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D5B9D8-C584-4C09-AF26-BB7F70574E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D5B9D8-C584-4C09-AF26-BB7F70574E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{714F5030-6A34-4D8C-A435-97B04BA80417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{714F5030-6A34-4D8C-A435-97B04BA80417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{714F5030-6A34-4D8C-A435-97B04BA80417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{714F5030-6A34-4D8C-A435-97B04BA80417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB1334C-BF06-4850-8C8A-CF9A08CA502F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB1334C-BF06-4850-8C8A-CF9A08CA502F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB1334C-BF06-4850-8C8A-CF9A08CA502F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB1334C-BF06-4850-8C8A-CF9A08CA502F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93E2B070-5BA4-4492-BF26-646034B810F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E2B070-5BA4-4492-BF26-646034B810F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E2B070-5BA4-4492-BF26-646034B810F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E2B070-5BA4-4492-BF26-646034B810F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {204F893B-4437-43AB-A948-E88CD88EEDA3}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 13
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://hkasl.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PSMS.Cloud.Automation.WFE\\PSMS.Cloud.Automation.WFE.csproj
+		SccProjectName1 = PSMS.Cloud.Automation.WFE
+		SccLocalPath1 = PSMS.Cloud.Automation.WFE
+		SccProjectUniqueName2 = PSMS.Cloud.Common\\PSMS.Cloud.Common.csproj
+		SccProjectName2 = PSMS.Cloud.Common
+		SccLocalPath2 = PSMS.Cloud.Common
+		SccProjectUniqueName3 = PSMS.Cloud.Automation.WFEConfig\\PSMS.Cloud.Automation.WFEConfig.csproj
+		SccProjectName3 = PSMS.Cloud.Automation.WFEConfig
+		SccLocalPath3 = PSMS.Cloud.Automation.WFEConfig
+		SccProjectUniqueName4 = PSMS.Cloud.Automation.DBWL\\PSMS.Cloud.Automation.DBWL.csproj
+		SccProjectName4 = PSMS.Cloud.Automation.DBWL
+		SccLocalPath4 = PSMS.Cloud.Automation.DBWL
+		SccProjectUniqueName5 = PSMS.Cloud.Automation.SLB\\PSMS.Cloud.Automation.SLB.csproj
+		SccProjectName5 = PSMS.Cloud.Automation.SLB
+		SccLocalPath5 = PSMS.Cloud.Automation.SLB
+		SccProjectUniqueName6 = PSMS.Cloud.Automation.DNS\\PSMS.Cloud.Automation.DNS.csproj
+		SccProjectName6 = PSMS.Cloud.Automation.DNS
+		SccLocalPath6 = PSMS.Cloud.Automation.DNS
+		SccProjectUniqueName7 = PSMS.Cloud.Automation.DB\\PSMS.Cloud.Automation.DB.csproj
+		SccProjectName7 = PSMS.Cloud.Automation.DB
+		SccLocalPath7 = PSMS.Cloud.Automation.DB
+		SccProjectUniqueName8 = PSMS.Cloud.Automation.PasswordChecker\\PSMS.Cloud.Automation.PasswordChecker.csproj
+		SccProjectName8 = PSMS.Cloud.Automation.PasswordChecker
+		SccLocalPath8 = PSMS.Cloud.Automation.PasswordChecker
+		SccProjectUniqueName9 = PSMS.Cloud.Automation.Renewal\\PSMS.Cloud.Automation.Renewal.csproj
+		SccProjectName9 = PSMS.Cloud.Automation.Renewal
+		SccLocalPath9 = PSMS.Cloud.Automation.Renewal
+		SccProjectUniqueName10 = PSMS.Cloud.Automation.CleanUp\\PSMS.Cloud.Automation.CleanUp.csproj
+		SccProjectName10 = PSMS.Cloud.Automation.CleanUp
+		SccLocalPath10 = PSMS.Cloud.Automation.CleanUp
+		SccProjectUniqueName11 = PSMS.Cloud.Automation.EmailNotification\\PSMS.Cloud.Automation.EmailNotification.csproj
+		SccProjectName11 = PSMS.Cloud.Automation.EmailNotification
+		SccLocalPath11 = PSMS.Cloud.Automation.EmailNotification
+		SccProjectUniqueName12 = PSMS.Cloud.Automation.ResourceMonitoring\\PSMS.Cloud.Automation.ResourceMonitoring.csproj
+		SccProjectName12 = PSMS.Cloud.Automation.ResourceMonitoring
+		SccLocalPath12 = PSMS.Cloud.Automation.ResourceMonitoring
+	EndGlobalSection
+EndGlobal

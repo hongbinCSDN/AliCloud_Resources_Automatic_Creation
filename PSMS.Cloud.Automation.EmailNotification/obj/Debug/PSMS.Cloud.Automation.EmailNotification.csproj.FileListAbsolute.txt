@@ -1,0 +1,12 @@
+E:\PSMS\PSMS.Cloud.Automation\PSMS.Cloud.Automation.EmailNotification\obj\Debug\PSMS.Cloud.Automation.EmailNotification.csprojAssemblyReference.cache
+E:\PSMS\PSMS.Cloud.Automation\PSMS.Cloud.Automation.EmailNotification\obj\Debug\PSMS.Cloud.Automation.EmailNotification.csproj.CoreCompileInputs.cache
+E:\PSMS\PSMS.Cloud.Automation\PSMS.Cloud.Automation.EmailNotification\bin\Debug\PSMS.Cloud.Automation.EmailNotification.exe.config
+E:\PSMS\PSMS.Cloud.Automation\PSMS.Cloud.Automation.EmailNotification\bin\Debug\PSMS.Cloud.Automation.EmailNotification.exe
+E:\PSMS\PSMS.Cloud.Automation\PSMS.Cloud.Automation.EmailNotification\bin\Debug\PSMS.Cloud.Automation.EmailNotification.pdb
+E:\PSMS\PSMS.Cloud.Automation\PSMS.Cloud.Automation.EmailNotification\bin\Debug\aliyun-net-sdk-core.dll
+E:\PSMS\PSMS.Cloud.Automation\PSMS.Cloud.Automation.EmailNotification\bin\Debug\aliyun-net-sdk-dm.dll
+E:\PSMS\PSMS.Cloud.Automation\PSMS.Cloud.Automation.EmailNotification\bin\Debug\PSMS.Cloud.Common.dll
+E:\PSMS\PSMS.Cloud.Automation\PSMS.Cloud.Automation.EmailNotification\bin\Debug\PSMS.Cloud.Common.pdb
+E:\PSMS\PSMS.Cloud.Automation\PSMS.Cloud.Automation.EmailNotification\obj\Debug\PSMS.Cloud.Automation.EmailNotification.csproj.CopyComplete
+E:\PSMS\PSMS.Cloud.Automation\PSMS.Cloud.Automation.EmailNotification\obj\Debug\PSMS.Cloud.Automation.EmailNotification.exe
+E:\PSMS\PSMS.Cloud.Automation\PSMS.Cloud.Automation.EmailNotification\obj\Debug\PSMS.Cloud.Automation.EmailNotification.pdb
